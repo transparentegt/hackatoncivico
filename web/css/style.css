@@ -1777,3 +1777,66 @@ a.whoare span{
 		margin-right: 0%;
 	}
 }
+/** Custom classes **/
+.main-background {
+	background: url(../images/protesta.jpg);
+	background-size: cover;
+	background-attachment: fixed;
+	width: 100%;
+	margin-bottom: 2%;
+	height: 50vw;
+}
+
+.slide-btns.subscribe-btn {
+	display: block;
+	text-align: center;
+}
+
+.main-logo-container {
+	position: absolute;
+	text-align: center;
+}
+
+.main-logo {
+	width: 55%;
+}
+
+.countdown-main-container {
+	text-align: center;
+}
+
+.countdown-main-container h2 {
+	font-size: 2em;
+}
+
+.countdown-main-container ul {
+	list-style-type: none;
+	padding: 0;
+	margin: 0;
+}
+
+.countdown-main-container ul li {
+	display: inline-block;
+	width: 5%;
+	min-width: 60px;
+	margin: 0 0.5% 0 0.5%;
+}
+
+.countdown-main-container ul li .countdown-value {
+	display: block;
+	text-align: center;
+	border-top: 1px solid #000;
+	border-bottom: 1px solid #000;
+	border-radius: 5px;
+	margin: 0;
+	padding: 2% 0 2% 0;
+	color: rgba(255, 255, 255, 1);
+	font-size: 3em;
+	background:  rgba(0, 0, 0, 1);
+	box-shadow: 0 0 10px rgba(0,0,0,0.6)	
+}
+
+.countdown-main-container ul li .countdown-label {
+	display: inline-block;
+	text-align: center;
+}
