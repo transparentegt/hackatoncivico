@@ -12,15 +12,36 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 		<link href="web/css/bootstrap.css" rel='stylesheet' type='text/css' />
 		<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
 		<script src="web/js/jquery.min.js"></script>
+		<script src="web/js/jquery.countdown.min.js"></script>
 		 <!---- start-smoth-scrolling---->
 		<script type="text/javascript" src="web/js/move-top.js"></script>
 		<script type="text/javascript" src="web/js/easing.js"></script>
 		<script type="text/javascript">
+			function center_logo() 
+			{
+				$(".main-logo-container").css("top", (($(".main-background").height() - $(".main-logo-container").height()) / 2 + $(".subscribe-btn").height()) + "px");
+				$(".main-logo-container").css("left", (($(".main-background").width() - $(".main-logo-container").width()) / 2) + "px");
+			}
+
+			function center_coundown() 
+			{
+				$(".countdown-main-container ul li .countdown-value").css("top", (($(".countdown-main-container ul li").height() - $(".countdown-main-container ul li .countdown-value").height()) / 2 + $(".subscribe-btn").height()) + "px");
+			}
+			
 			jQuery(document).ready(function($) {
 				$(".scroll").click(function(event){		
 					event.preventDefault();
 					$('html,body').animate({scrollTop:$(this.hash).offset().top},1000);
 				});
+				
+				center_logo();
+				
+				$(".event-countdown")
+				  .countdown("2015/07/10", function(event) {
+					$(this).html(
+					  event.strftime('<ul><li class="countdown-container"><span class="countdown-value">%D</span><span class="countdown-label">días</span></li><li class="countdown-container"><span class="countdown-value">%H</span><span class="countdown-label">horas</span></li><li class="countdown-container"><span class="countdown-value">%M</span><span class="countdown-label">minutos</span></li><li class="countdown-container"><span class="countdown-value">%S</span><span class="countdown-label">segundos</span></li>')
+					);
+				  });				
 			});
 		</script>
 		 <!---- start-smoth-scrolling---->
@@ -42,12 +63,13 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 				$(pull).on('click', function(e) {
 					e.preventDefault();
 					menu.slideToggle();
-				});
+				});			
 				$(window).resize(function(){
 	        		var w = $(window).width();
 	        		if(w > 320 && menu.is(':hidden')) {
 	        			menu.removeAttr('style');
 	        		}
+					center_logo();
 	    		});
 			});
 		</script>
@@ -99,7 +121,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 			  </script>
 			<!----//End-slider-script---->
 			<!-- Slideshow 4 -->
-			    <div  id="top" class="callbacks_container">
+			    <!--div  id="top" class="callbacks_container">
 			      <ul class="rslides" id="slider4">
 			        <li>
 			          <img src="web/images/protesta.jpg" alt="">
@@ -113,6 +135,14 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 			          </div>
 			        </li>
 			      </ul>
+			    </div-->
+			    <div id="top" class="main-background">
+				  <div class="main-logo-container">
+					<img class="main-logo" src="web/images/logo.png" alt="Hackatón Cívico" />
+					<div class="slide-btns subscribe-btn">
+						<a class="startnow scroll btn" href="#contact">INVOL&Uacute;CRATE</a>
+					</div>
+				  </div>
 			    </div>
 			    <div class="clearfix"> </div>
 			<!----- //End-slider---->
@@ -120,7 +150,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 			<div id="about" class="top-grids">
 				<div class="container">
 					<div class="head-section text-center">
-						<h2>Quienes somos?</h2>
+						<h2>¿Quiénes somos?</h2>
 						<p></p>
 					</div>
 					<div class="team-grids ">
@@ -128,7 +158,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 							<div class="top-grid">
 				
 								<div class="col-md-12">
-									<p style="font-size:1.5em">Somos un movimiento <strong>ESPONTÁNEO</strong> de ciudadanos apasionados por la <strong>TECNOLOGÍA</strong>, que sin ninguna afiliación partidaria pero con un alto <strong>COMPROMISO</strong> con las grandes necesidades del <strong>PAÍS</strong>, nos hemos <strong>INTEGRADO</strong> para <strong>COLABORAR</strong> con otros movimientos ciudadanos y aportar nuestras capacidades para <strong>POTENCIAR</strong> las propuestas que se están construyendo con <strong>URGENCIA</strong>.</p>
+									<p style="font-size:1.5em; text-align: justify;">Somos un movimiento <strong>ESPONTÁNEO</strong> de ciudadanos apasionados por la <strong>TECNOLOGÍA</strong>, que sin ninguna afiliación partidaria pero con un alto <strong>COMPROMISO</strong> con las grandes necesidades del <strong>PAÍS</strong>, nos hemos <strong>INTEGRADO</strong> para <strong>COLABORAR</strong> con otros movimientos ciudadanos y aportar nuestras capacidades para <strong>POTENCIAR</strong> las propuestas que se están construyendo con <strong>URGENCIA</strong>.</p>
 								</div>
 							</div>
 						</div>
@@ -160,6 +190,10 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 						</div>
 					</div>
 					<!---- contact-grids ---->
+				</div>
+				<div class="countdown-main-container">
+				<h2>La Hackatón comienza en:</h2>
+				<div class="event-countdown"></div>
 				</div>
 			</div>
 			</div>
