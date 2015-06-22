@@ -1,0 +1,1209 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Bootstrap Ultimate v1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2015-06-21 15:19-0600\n"
+"Last-Translator: admin <eminozlem7777@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.8.1\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: ../\n"
+"X-Textdomain-Support: yes\n"
+"Language: es_ES\n"
+"X-Poedit-SearchPath-0: .\n"
+
+# @ bonestheme
+#: 404.php:13
+msgid "Epic 404 - Article Not Found"
+msgstr "Epopeya 404 - Artículo no encontrado"
+
+# @ bonestheme
+#: 404.php:14
+msgid "This is embarassing. We can't find what you were looking for."
+msgstr "¿No encuentras lo que busca en nuestra preguntas frecuentes?"
+
+# @ bonestheme
+#: 404.php:22
+msgid ""
+"Whatever you were looking for was not found, but maybe try looking again or "
+"search using the form below."
+msgstr ""
+"El artículo que estás buscando no ha sido encontrado, pero tal vez quieras "
+"intentarlo de nuevo!"
+
+# @ bonestheme
+#: archive.php:10
+msgid "Posts Categorized:"
+msgstr "Publicaciones categorizadas:"
+
+# @ bonestheme
+#: archive.php:14
+msgid "Posts Tagged:"
+msgstr "Publicaciones etiquetadas:"
+
+# @ bonestheme
+#: archive.php:18 author.php:8
+msgid "Posts By:"
+msgstr "Publicaciones por:"
+
+# @ bonestheme
+#: archive.php:22
+msgid "Daily Archives:"
+msgstr "Archivo diario:"
+
+# @ bonestheme
+#: archive.php:26
+msgid "Monthly Archives:"
+msgstr "Archivo mensual:"
+
+# @ bonestheme
+#: archive.php:30
+msgid "Yearly Archives:"
+msgstr "Archivo anual:"
+
+# @ bonestheme
+#: archive.php:43 attachment.php:15 author.php:31 content.php:9 image.php:23
+#: search.php:17 single.php:17
+msgid "Posted"
+msgstr "Publicado"
+
+# @ bonestheme
+#: archive.php:43 attachment.php:15 author.php:31 content.php:9 image.php:23
+#: search.php:17 single.php:17
+msgid "by"
+msgstr "por"
+
+# @ bonestheme
+#: archive.php:43 attachment.php:15 author.php:31 content.php:9 search.php:17
+#: single.php:17
+msgid "filed under"
+msgstr "registrado bajo"
+
+# @ bonestheme
+#: archive.php:68 author.php:56 index.php:45 search.php:42
+msgid "&laquo; Older Entries"
+msgstr "&laquo; Entradas anteriores"
+
+# @ bonestheme
+#: archive.php:69 author.php:57 index.php:46 search.php:43
+msgid "Newer Entries &raquo;"
+msgstr "Entradas recientes &raquo;"
+
+# @ bonestheme
+#: archive.php:79 author.php:67
+msgid "No Posts Yet"
+msgstr "Aún no hay publicaciones"
+
+# @ bonestheme
+#: archive.php:82 author.php:70
+msgid "Sorry, What you were looking for is not here."
+msgstr "Lo sentimos, la página que buscas no está aquí."
+
+# @ bonestheme
+#: attachment.php:27 content.php:19 image.php:53 page-full-width.php:30
+#: page-homepage.php:106 page-left-sidebar.php:32 page.php:24 single.php:30
+msgid "Tags"
+msgstr "Etiquetas"
+
+# @ bonestheme
+#: attachment.php:41 image.php:67 index.php:55 page-full-width.php:44
+#: page-homepage.php:123 page-left-sidebar.php:46 page.php:38 search.php:54
+#: single.php:51
+msgid "Not Found"
+msgstr "No fue encontrado"
+
+# @ bonestheme
+#: attachment.php:44 image.php:70 index.php:58 page-full-width.php:47
+#: page-homepage.php:126 page-left-sidebar.php:49 page.php:41 search.php:57
+#: single.php:54
+msgid "Sorry, but the requested resource was not found on this site."
+msgstr ""
+"Lo sentimos, la página de tu solicitud no se pudo encontrar, o ya no existe."
+
+# @ bonestheme
+#: comments.php:11
+msgid "This post is password protected. Enter the password to view comments."
+msgstr "Introduzca la contraseña para ver los comentarios."
+
+# @ bonestheme
+#: comments.php:21
+msgid "No"
+msgstr "No"
+
+# @ bonestheme
+#: comments.php:21
+msgid "Responses"
+msgstr "Respuestas"
+
+# @ bonestheme
+#: comments.php:21
+msgid "One"
+msgstr "Uno"
+
+# @ bonestheme
+#: comments.php:21
+msgid "Response"
+msgstr "Respuesta"
+
+# @ bonestheme
+#: comments.php:21
+msgid "to"
+msgstr "hacia"
+
+# @ bonestheme
+#: comments.php:25 comments.php:46
+msgid "Older comments"
+msgstr "Comentarios anteriores"
+
+# @ bonestheme
+#: comments.php:26 comments.php:47
+msgid "Newer comments"
+msgstr "﻿Últimos Comentarios"
+
+# @ bonestheme
+#: comments.php:68
+msgid "Comments are closed"
+msgstr "Comentarios cerrados"
+
+# @ bonestheme
+#: comments.php:81
+msgid "Leave a Reply"
+msgstr "Deja una respuesta a"
+
+# @ bonestheme
+#: comments.php:81
+msgid "Leave a Reply to"
+msgstr "Dejarle una respuesta a %s"
+
+# @ bonestheme
+#: comments.php:84
+msgid "Cancel"
+msgstr "Cancelar"
+
+# @ bonestheme
+#: comments.php:89
+msgid "You must be"
+msgstr "Usted debe ser"
+
+# @ bonestheme
+#: comments.php:89
+msgid "logged in"
+msgstr "conectado"
+
+# @ bonestheme
+#: comments.php:89
+msgid "to post a comment"
+msgstr "para publicar un comentario"
+
+# @ bonestheme
+#: comments.php:97
+msgid "Logged in as"
+msgstr "Conectado como"
+
+# @ bonestheme
+#: comments.php:97
+msgid "Log out of this account"
+msgstr "Salir de esta cuenta"
+
+# @ bonestheme
+#: comments.php:97
+msgid "Log out"
+msgstr "Terminar sesión"
+
+# @ bonestheme
+#: comments.php:105
+msgid "Name"
+msgstr "Nombre"
+
+# @ bonestheme
+#: comments.php:107
+msgid "Your Name"
+msgstr "Su Nombre"
+
+# @ bonestheme
+#: comments.php:114
+msgid "Mail"
+msgstr "Correo"
+
+# @ bonestheme
+#: comments.php:116
+msgid "Your Email"
+msgstr "Su Email"
+
+# @ bonestheme
+#: comments.php:118
+msgid "will not be published"
+msgstr "no será publicado"
+
+# @ bonestheme
+#: comments.php:124
+msgid "Website"
+msgstr "Sitio Web"
+
+# @ bonestheme
+#: comments.php:126
+msgid "Your Website"
+msgstr "Su página web."
+
+# @ bonestheme
+#: comments.php:136
+msgid "Your Comment Here…"
+msgstr "Su comentario aquí..."
+
+# @ bonestheme
+#: comments.php:138
+msgid "Submit Comment"
+msgstr "Enviar Comentario"
+
+# @ bonestheme
+#: content-aside.php:3 content-aside.php:10 content-image.php:7
+#: content-link.php:8 content-quote.php:7 content-status.php:5
+#, php-format
+msgid "Permalink to %s"
+msgstr "Enlace permanente a %s"
+
+# @ bonestheme
+#: content-aside.php:5 content-image.php:3 content-link.php:4
+#: content-quote.php:3 content-status.php:11
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Continuar leyendo  %s <span class=“meta-nav”>&rarr;</span>"
+
+# @ bonestheme
+#: content-aside.php:13 content-image.php:13 content-link.php:11
+#: content-quote.php:10 content-status.php:17
+msgid "Leave a reply"
+msgstr "Deja una respuesta"
+
+# @ bonestheme
+#: content-aside.php:13 content-image.php:13 content-link.php:11
+#: content-quote.php:10 content-status.php:17
+msgid "1 Reply"
+msgstr "1 Respuesta"
+
+# @ bonestheme
+#: content-aside.php:13 content-image.php:13 content-link.php:11
+#: content-quote.php:10 content-status.php:17
+msgid "% Replies"
+msgstr "% Respuestas"
+
+# @ bonestheme
+#: content-aside.php:16 content-image.php:16 content-link.php:14
+#: content-quote.php:13 content-status.php:20 functions.php:237
+#: library/custom-post-type.php:36
+msgid "Edit"
+msgstr "Editar"
+
+# @ bonestheme
+#: content-link.php:2
+msgid "Link"
+msgstr "Vínculo"
+
+# @ bonestheme
+#: content.php:14 library/bones.php:350
+msgid "Read more &raquo;"
+msgstr "Leer más &raquo;"
+
+# @ bonestheme
+#: functions.php:121
+#, php-format
+msgid "Page %s"
+msgstr "Página %s"
+
+# @ bonestheme
+#: functions.php:241
+msgid "Your comment is awaiting moderation."
+msgstr "Su comentario esta esperando ser moderado"
+
+# @ bonestheme
+#: functions.php:284
+msgid "Search for:"
+msgstr "Buscar Por:"
+
+# @ bonestheme
+#: functions.php:288 header.php:74 searchform.php:5
+msgid "Search"
+msgstr "Buscar"
+
+# @ bonestheme
+#: functions.php:302
+msgid ""
+"This post is password protected. To view it please enter your password below:"
+msgstr ""
+"Este contenido está protegido por contraseña. Para verlo introduce tu "
+"contraseña a continuación:"
+
+# @ bonestheme
+#: functions.php:303
+msgid "Password:"
+msgstr "Contraseña:"
+
+# @ bonestheme
+#: functions.php:303
+msgid "Submit"
+msgstr "Enviar"
+
+# @ bonestheme
+#: functions.php:1366 library/bones.php:213 library/bones.php:230
+msgid "The Main Menu"
+msgstr "El Menú Principal"
+
+# @ default
+# @ eo_theme
+#: functions.php:1414 options.php:391
+msgid "Home"
+msgstr "Inicio"
+
+# @ bonestheme
+#: image.php:89
+msgid "Image metadata"
+msgstr "Metadatos de imagen"
+
+# @ bonestheme
+#: image.php:113
+msgid "Date Taken"
+msgstr "La fecha en que la muestra fue tomada"
+
+# @ bonestheme
+#: image.php:115
+msgid "Copyright"
+msgstr "Copyright"
+
+# @ bonestheme
+#: image.php:117
+msgid "Credit"
+msgstr "Crédito"
+
+# @ bonestheme
+#: image.php:119
+msgid "Title"
+msgstr "Título"
+
+# @ bonestheme
+#: image.php:121
+msgid "Caption"
+msgstr "Subtítulo"
+
+# @ bonestheme
+#: image.php:123
+msgid "Camera"
+msgstr "Cámara"
+
+# @ bonestheme
+#: image.php:125
+msgid "Focal Length"
+msgstr "Longitud focal:"
+
+# @ bonestheme
+#: image.php:127
+msgid "Aperture"
+msgstr "Apertura"
+
+# @ bonestheme
+#: image.php:129
+msgid "ISO"
+msgstr "ISO"
+
+# @ bonestheme
+#: image.php:131
+msgid "Shutter Speed"
+msgstr "Velocidad del obturador:"
+
+# @ default
+#: inc/menu_page_walker.php:94
+#, php-format
+msgid "#%d (no title)"
+msgstr "#%d (sin título)"
+
+# @ bonestheme
+#: library/admin.php:66
+msgid "j F Y @ g:i a"
+msgstr "j F Y @ g:i a"
+
+# @ bonestheme
+#: library/admin.php:78
+msgid "Recently on Themble (Customize on admin.php)"
+msgstr "Recientemente en Themble (Personalizar en admin.php)"
+
+# @ bonestheme
+#: library/admin.php:125
+msgid ""
+"<span id=\"footer-thankyou\">Developed by <a href=\"http://yoursite.com\" "
+"target=\"_blank\">Your Site Name</a></span>. Built using <a href=\"http://"
+"themble.com/bones\" target=\"_blank\">Bones</a>."
+msgstr ""
+"<span id=\"footer-thankyou\">Desarrollado por <a href=\"http://yoursite.com"
+"\" target=\"_blank\">El nombre del sitio</a></span> . Construido con <a href="
+"\"http://themble.com/bones\" target=\"_blank\">huesos</a> ."
+
+# @ bonestheme
+#: library/bones.php:214 library/bones.php:248
+msgid "Footer Links"
+msgstr "Vínculos de pie de página"
+
+# @ bonestheme
+#: library/bones.php:302
+msgid "No Related Posts Yet!"
+msgstr "¡Aún no hay entradas relacionadas!"
+
+# @ bonestheme
+#: library/bones.php:350
+msgid "Read"
+msgstr "Leer"
+
+# @ default
+#: library/bones.php:365
+#, php-format
+msgid "Posts by %s"
+msgstr "Todas las publicaciones de: %s"
+
+# @ bonestheme
+#: library/custom-post-type.php:31
+msgid "Custom Types"
+msgstr "Tipos personalizados"
+
+# @ bonestheme
+#: library/custom-post-type.php:32
+msgid "Custom Post"
+msgstr "Publicación personalizada"
+
+# @ bonestheme
+#: library/custom-post-type.php:33
+msgid "All Custom Posts"
+msgstr "Todos los mensajes personalizados"
+
+# @ bonestheme
+#: library/custom-post-type.php:34
+msgid "Add New"
+msgstr "Agregar nuevo"
+
+# @ bonestheme
+#: library/custom-post-type.php:35
+msgid "Add New Custom Type"
+msgstr "Agregar nuevo tipo personalizado"
+
+# @ bonestheme
+#: library/custom-post-type.php:37
+msgid "Edit Post Types"
+msgstr "Editar tipos de entrada"
+
+# @ bonestheme
+#: library/custom-post-type.php:38
+msgid "New Post Type"
+msgstr "Agregar nuevo tipo de publicación"
+
+# @ bonestheme
+#: library/custom-post-type.php:39
+msgid "View Post Type"
+msgstr "Ver tipo de publicación"
+
+# @ bonestheme
+#: library/custom-post-type.php:40
+msgid "Search Post Type"
+msgstr "Buscar tipo de publicación"
+
+# @ bonestheme
+#: library/custom-post-type.php:41
+msgid "Nothing found in the Database."
+msgstr "No se ha encontrado nada en la base de datos."
+
+# @ bonestheme
+#: library/custom-post-type.php:42
+msgid "Nothing found in Trash"
+msgstr "Nada encontrado en la papelera"
+
+# @ bonestheme
+#: library/custom-post-type.php:45
+msgid "This is the example custom post type"
+msgstr "Este es el ejemplo de tipo de publicación personalizado"
+
+# @ bonestheme
+#: library/custom-post-type.php:82
+msgid "Custom Categories"
+msgstr "Categorías personalizadas"
+
+# @ bonestheme
+#: library/custom-post-type.php:83
+msgid "Custom Category"
+msgstr "Categoría personalizada"
+
+# @ bonestheme
+#: library/custom-post-type.php:84
+msgid "Search Custom Categories"
+msgstr "Buscar categorías personalizados"
+
+# @ bonestheme
+#: library/custom-post-type.php:85
+msgid "All Custom Categories"
+msgstr "Todas las categorías personalizadas"
+
+# @ bonestheme
+#: library/custom-post-type.php:86
+msgid "Parent Custom Category"
+msgstr "Categoría padre personalizada"
+
+# @ bonestheme
+#: library/custom-post-type.php:87
+msgid "Parent Custom Category:"
+msgstr "Categoría padre personalizada:"
+
+# @ bonestheme
+#: library/custom-post-type.php:88
+msgid "Edit Custom Category"
+msgstr "Editar categoría personalizada"
+
+# @ bonestheme
+#: library/custom-post-type.php:89
+msgid "Update Custom Category"
+msgstr "Actualizar categoría personalizada"
+
+# @ bonestheme
+#: library/custom-post-type.php:90
+msgid "Add New Custom Category"
+msgstr "Agregar nueva categoría personalizada"
+
+# @ bonestheme
+#: library/custom-post-type.php:91
+msgid "New Custom Category Name"
+msgstr "Nuevo nombre de categoría personalizada"
+
+# @ bonestheme
+#: library/custom-post-type.php:105
+msgid "Custom Tags"
+msgstr "Etiquetas personalizadas"
+
+# @ bonestheme
+#: library/custom-post-type.php:106
+msgid "Custom Tag"
+msgstr "Etiqueta personalizada"
+
+# @ bonestheme
+#: library/custom-post-type.php:107
+msgid "Search Custom Tags"
+msgstr "Buscar etiquetas personalizados"
+
+# @ bonestheme
+#: library/custom-post-type.php:108
+msgid "All Custom Tags"
+msgstr "Todas las etiquetas personalizadas"
+
+# @ bonestheme
+#: library/custom-post-type.php:109
+msgid "Parent Custom Tag"
+msgstr "Etiqueta padre personalizada"
+
+# @ bonestheme
+#: library/custom-post-type.php:110
+msgid "Parent Custom Tag:"
+msgstr "Etiqueta padre personalizada:"
+
+# @ bonestheme
+#: library/custom-post-type.php:111
+msgid "Edit Custom Tag"
+msgstr "Editar etiqueta personalizada"
+
+# @ bonestheme
+#: library/custom-post-type.php:112
+msgid "Update Custom Tag"
+msgstr "Edita etiqueta personalizada"
+
+# @ bonestheme
+#: library/custom-post-type.php:113
+msgid "Add New Custom Tag"
+msgstr "Agregar nueva etiqueta personalizada"
+
+# @ bonestheme
+#: library/custom-post-type.php:114
+msgid "New Custom Tag Name"
+msgstr "Nuevo nombre de etiqueta personalizada"
+
+# @ options_framework_theme
+#: options.php:144
+msgid "French Toast"
+msgstr "Pan francés"
+
+# @ options_framework_theme
+#: options.php:145
+msgid "Pancake"
+msgstr "Panqueque"
+
+# @ options_framework_theme
+#: options.php:146
+msgid "Omelette"
+msgstr "Tortilla francesa"
+
+# @ options_framework_theme
+#: options.php:147
+msgid "Crepe"
+msgstr "Crepe"
+
+# @ options_framework_theme
+#: options.php:148
+msgid "Waffle"
+msgstr "Waffle"
+
+# @ eo_theme
+#: options.php:303
+msgid "Common"
+msgstr "Común"
+
+# @ eo_theme
+#: options.php:306
+msgid "Branding Logo"
+msgstr "Logo de la marca"
+
+# @ eo_theme
+#: options.php:312
+msgid "Custom favicon"
+msgstr "Favicon personalizado"
+
+# @ eo_theme
+#: options.php:318
+msgid "GA UA code"
+msgstr "Código GA UA"
+
+# @ eo_theme
+#: options.php:327
+msgid "Subdomains of ?"
+msgstr "¿Subdominios de?"
+
+# @ eo_theme
+#: options.php:335
+msgid "Mult.top-level domains of ?"
+msgstr "¿Dominios de primer nivel de?"
+
+# @ eo_theme
+#: options.php:343
+msgid "Advertiser Support ?"
+msgstr "¿Anunciante de apoyo a la marca?"
+
+# @ eo_theme
+#: options.php:359
+msgid "Enable pinned posts ?"
+msgstr "¿Activar publicaciones clavadas?"
+
+# @ eo_theme
+#: options.php:367
+msgid "Pin Cat"
+msgstr "Clavar gato"
+
+# @ eo_theme
+#: options.php:377
+msgid "CSS"
+msgstr "CSS"
+
+# @ eo_theme
+#: options.php:384
+msgid "Custom JS"
+msgstr "JS personalizado"
+
+# @ eo_theme
+#: options.php:395
+msgid "Slider -carousel- on homepage"
+msgstr "Deslizador - carrusel - Página principal"
+
+# @ eo_theme
+#: options.php:403
+msgid "Slider position ?"
+msgstr "¿Posicion del deslizador?"
+
+# @ eo_theme
+#: options.php:412
+msgid "No# posts in slider"
+msgstr "No # mensajes en deslizador"
+
+# @ eo_theme
+#: options.php:420
+msgid "Category slider"
+msgstr "Categoría de deslizador"
+
+# @ eo_theme
+#: options.php:428
+msgid "Prevent overflow"
+msgstr "Evitar el desbordamiento"
+
+# @ eo_theme
+#: options.php:436
+msgid "Max. height"
+msgstr "Altura máxima"
+
+# @ eo_theme
+#: options.php:444
+msgid "Blog page -jumbotron- unit (*former -hero-)"
+msgstr "Blog página - jumbotron-unidad (*ex -hero-)"
+
+# @ eo_theme
+#: options.php:453
+msgid "What to display in jumbotron -former hero- ?"
+msgstr "¿Qué mostrar en jumbotron -ex hero-?"
+
+# @ eo_theme
+#: options.php:462
+msgid "Page to display in jumbotron"
+msgstr "Página para mostrar en jumbotron"
+
+# @ eo_theme
+#: options.php:474
+msgid "Homepage page template jumbotron (old hero-unit) background color"
+msgstr ""
+"Color de fondo de página de inicio para plantilla  jumbotron (antiguo hero-"
+"unit)"
+
+# @ eo_theme
+#: options.php:482
+msgid "Highlights on home"
+msgstr "Destacados en inicio"
+
+# @ eo_theme
+#: options.php:490
+msgid "Featurettes on home"
+msgstr "Destacados en inicio"
+
+# @ eo_theme
+#: options.php:500
+msgid "Typography"
+msgstr "Tipografía"
+
+# @ eo_theme
+#: options.php:504
+msgid "Google Webfont API key"
+msgstr "Google Webfont API key"
+
+# @ eo_theme
+#: options.php:511
+msgid "Refresh fonts from Google"
+msgstr "Actualizar las fuentes de letra de Google"
+
+# @ eo_theme
+#: options.php:565
+msgid "Headings"
+msgstr "Encabezados"
+
+# @ eo_theme
+#: options.php:573
+msgid "Main Body Text"
+msgstr "Texto del cuerpo principal"
+
+# @ eo_theme
+#: options.php:580
+msgid "Link Color"
+msgstr "Color de Vínculo"
+
+# @ eo_theme
+#: options.php:588
+msgid "Link:hover Color"
+msgstr "Color de Vínculo:flotar"
+
+# @ eo_theme
+#: options.php:596
+msgid "Link:active Color"
+msgstr "Color de Vínculo:activo"
+
+# @ eo_theme
+#: options.php:604
+msgid "Customize"
+msgstr "Personalizar"
+
+# @ eo_theme
+#: options.php:609
+msgid "Position"
+msgstr "Posición"
+
+# @ eo_theme
+#: options.php:618
+msgid "Style"
+msgstr "Estilo"
+
+# @ eo_theme
+#: options.php:628
+msgid "Top nav background color"
+msgstr "Color de fondo top nav"
+
+# @ eo_theme
+#: options.php:636
+msgid "Use gradient"
+msgstr "Usar degradiente"
+
+# @ eo_theme
+#: options.php:644
+msgid "Bottom gradient color"
+msgstr "Color del degradiente de fondo "
+
+# @ eo_theme
+#: options.php:653
+msgid "Top nav item color"
+msgstr "Color de elemento de top nav"
+
+# @ eo_theme
+#: options.php:661
+msgid "Top nav item hover color"
+msgstr "Color de elemento al flotar de top nav"
+
+# @ eo_theme
+#: options.php:669
+msgid "Top nav dropdown item color"
+msgstr "Color de listado desplegable de top nav"
+
+# @ eo_theme
+#: options.php:677
+msgid "Top nav dropdown item hover bg color"
+msgstr "Color de fondo de elemento al flotar de top nav"
+
+# @ eo_theme
+#: options.php:685
+msgid "Search bar"
+msgstr "Barra de Búsqueda"
+
+# @ eo_theme
+#: options.php:693
+msgid "Sticky Footer"
+msgstr "Pie de página estático"
+
+# @ eo_theme
+#: options.php:702
+msgid "CopyLeft"
+msgstr "CopyLeft"
+
+# @ eo_theme
+#: options.php:710
+msgid "-Comments are closed- message on pages"
+msgstr "Los comentarios están cerrados"
+
+# @ eo_theme
+#: options.php:719
+msgid "Site name"
+msgstr "Título o nombre del sitio"
+
+# @ eo_theme
+#: options.php:726
+msgid "Theme"
+msgstr "Tema"
+
+# @ eo_theme
+#: options.php:730
+msgid "Bootswatch.com Themes"
+msgstr "Temas de Bootswatch.com"
+
+# @ eo_theme
+#: options.php:737
+msgid "Refresh themes from Bootswatch"
+msgstr "Actualizar temas de Bootswatch"
+
+# @ eo_theme
+#: options.php:743
+msgid "Select a theme"
+msgstr "Seleccione un tema"
+
+# @ eo_theme
+#: options.php:752
+msgid "Use selected theme for admin too"
+msgstr "Usar tema seleccionado para admin"
+
+# @ eo_theme
+#: options.php:760
+msgid "Xtend"
+msgstr "Xtend"
+
+# @ eo_theme
+#: options.php:765
+msgid "Lightbox"
+msgstr "Lightbox"
+
+# @ eo_theme
+#: options.php:773
+msgid "Font Awesome"
+msgstr "Font Awesome"
+
+# @ eo_theme
+#: options.php:781
+msgid "Placeholders"
+msgstr "Marcadores de texto"
+
+# @ eo_theme
+#: options.php:788
+msgid "Dev."
+msgstr "Dev."
+
+# @ eo_theme
+#: options.php:792
+msgid "Load via LESS"
+msgstr "Carga a través de LESS"
+
+# @ eo_theme
+#: options.php:800
+msgid "LESS Resources"
+msgstr "RECURSOS LESS EDF"
+
+# @ eo_theme
+#: options.php:801
+msgid "Resources to load via LESS."
+msgstr "Recursos para cargar via LESS."
+
+# @ eo_theme
+#: options.php:853 options.php:955
+msgid "Bootstrap .min ?"
+msgstr "¿Bootstrap .min?"
+
+# @ eo_theme
+#: options.php:861
+msgid "Panel"
+msgstr "Tablero"
+
+# @ eo_theme
+#: options.php:866
+msgid "Admin Top Nav"
+msgstr "Admin Top Nav"
+
+# @ eo_theme
+#: options.php:875
+msgid "Admin Side Menu Nav"
+msgstr "Admin Side Menu Nav"
+
+# @ eo_theme
+#: options.php:884
+msgid "Side Menu Heading Act."
+msgstr "Menú lateral hacia el act."
+
+# @ eo_theme
+#: options.php:893
+msgid "Load chosen ?"
+msgstr "¿Carga chosen?"
+
+# @ eo_theme
+#: options.php:903
+msgid "Chosen .min?"
+msgstr "¿Chosen .min?"
+
+# @ eo_theme
+#: options.php:911
+msgid "Collapse WP menu"
+msgstr "Colapsar menú WP"
+
+# @ eo_theme
+#: options.php:923
+msgid "Popover opt. prev."
+msgstr "Popover opt. prev."
+
+# @ eo_theme
+#: options.php:932
+msgid "ON/OFF Checkboxes ?"
+msgstr "¿ENCENDIDO/APAGADO en las casillas de verificación?"
+
+# @ eo_theme
+#: options.php:939
+msgid "Checkboxes Style"
+msgstr "Estilo de casillas de verificación"
+
+# @ eo_theme
+#: options.php:948
+msgid "Bootstrap Admin"
+msgstr "Admin Bootstrap "
+
+# @ eo_theme
+#: options.php:976
+msgid "Test"
+msgstr "Prueba"
+
+# @ eo_theme
+#: options.php:990
+msgid "About"
+msgstr "Acerca de"
+
+# @ options_framework_theme
+#: panel/inc/eo_of_submit.php:4 panel/of/options-framework.php:318
+msgid "Save Options"
+msgstr "Guardar Opciones"
+
+# @ options_framework_theme
+#: panel/inc/eo_of_submit.php:6 panel/of/options-framework.php:319
+msgid "Click OK to reset. Any theme settings will be lost!"
+msgstr "Haga clic en Aceptar para reiniciar. ¡Cualquier ajuste se perderá!"
+
+# @ options_framework_theme
+#: panel/inc/eo_of_submit.php:6 panel/of/options-framework.php:319
+msgid "Restore Defaults"
+msgstr "Restaurar Valores Predeterminados"
+
+# @ optionsframework
+#: panel/of/options-framework.php:184 panel/of/options-framework.php:185
+msgid "Bootstrap UL Options"
+msgstr "Opciones UL de Bootstrap"
+
+# @ options_framework_theme
+#: panel/of/options-framework.php:230
+msgid "Clear"
+msgstr "Limpiar"
+
+# @ options_framework_theme
+#: panel/of/options-framework.php:231
+msgid "Default"
+msgstr "Predeterminado"
+
+# @ options_framework_theme
+#: panel/of/options-framework.php:232
+msgid "Select Color"
+msgstr "Seleccionar un color"
+
+# @ options_framework_theme
+#: panel/of/options-framework.php:353
+msgid "Default options restored."
+msgstr "Opciones predeterminadas restauradas."
+
+# @ options_framework_theme
+#: panel/of/options-framework.php:407
+msgid "Options saved."
+msgstr "Opciones guardadas."
+
+# @ options_framework_theme
+#: panel/of/options-framework.php:457
+msgid "Theme Options"
+msgstr "Opciones del Tema"
+
+# @ options_framework_theme
+#: panel/of/options-media-uploader.php:51
+msgid "No file chosen"
+msgstr "No hay archivo elegido"
+
+# @ options_framework_theme
+#: panel/of/options-media-uploader.php:54
+#: panel/of/options-media-uploader.php:113
+msgid "Upload"
+msgstr "Subir"
+
+# @ options_framework_theme
+#: panel/of/options-media-uploader.php:56
+#: panel/of/options-media-uploader.php:114
+msgid "Remove"
+msgstr "Eliminar"
+
+# @ options_framework_theme
+#: panel/of/options-media-uploader.php:59
+msgid "Upgrade your version of WordPress for full media support."
+msgstr ""
+"Actualice su versión de WordPress para tener soporte multimedia completo."
+
+# @ options_framework_theme
+#: panel/of/options-media-uploader.php:83
+msgid "View File"
+msgstr "Ver Archivo"
+
+# @ options_framework_theme
+#: panel/of/options-sanitize.php:278
+msgid "No Repeat"
+msgstr "No repetir"
+
+# @ options_framework_theme
+#: panel/of/options-sanitize.php:279
+msgid "Repeat Horizontally"
+msgstr "Repetir Horizontalmente"
+
+# @ options_framework_theme
+#: panel/of/options-sanitize.php:280
+msgid "Repeat Vertically"
+msgstr "Repetir verticalmente"
+
+# @ options_framework_theme
+#: panel/of/options-sanitize.php:281
+msgid "Repeat All"
+msgstr "Repetir todo"
+
+# @ options_framework_theme
+#: panel/of/options-sanitize.php:294
+msgid "Top Left"
+msgstr "Arriba Izquierda"
+
+# @ options_framework_theme
+#: panel/of/options-sanitize.php:295
+msgid "Top Center"
+msgstr "Arriba centro"
+
+# @ options_framework_theme
+#: panel/of/options-sanitize.php:296
+msgid "Top Right"
+msgstr "Arriba Derecha"
+
+# @ options_framework_theme
+#: panel/of/options-sanitize.php:297
+msgid "Middle Left"
+msgstr "Mitad Izquierda"
+
+# @ options_framework_theme
+#: panel/of/options-sanitize.php:298
+msgid "Middle Center"
+msgstr "Mitad centro"
+
+# @ options_framework_theme
+#: panel/of/options-sanitize.php:299
+msgid "Middle Right"
+msgstr "Mitad Derecha"
+
+# @ options_framework_theme
+#: panel/of/options-sanitize.php:300
+msgid "Bottom Left"
+msgstr "Abajo Izquierda"
+
+# @ options_framework_theme
+#: panel/of/options-sanitize.php:301
+msgid "Bottom Center"
+msgstr "Abajo Centro"
+
+# @ options_framework_theme
+#: panel/of/options-sanitize.php:302
+msgid "Bottom Right"
+msgstr "Abajo Derecha"
+
+# @ options_framework_theme
+#: panel/of/options-sanitize.php:315
+msgid "Scroll Normally"
+msgstr "Desplazar Normalmente"
+
+# @ options_framework_theme
+#: panel/of/options-sanitize.php:316
+msgid "Fixed in Place"
+msgstr "Fijo en Lugar"
+
+# @ options_framework_theme
+#: panel/of/options-sanitize.php:390
+msgid "Normal"
+msgstr "Normal"
+
+# @ options_framework_theme
+#: panel/of/options-sanitize.php:391
+msgid "Italic"
+msgstr "Cursiva"
+
+# @ options_framework_theme
+#: panel/of/options-sanitize.php:392
+msgid "Bold"
+msgstr "Negrita"
+
+# @ options_framework_theme
+#: panel/of/options-sanitize.php:393
+msgid "Bold Italic"
+msgstr "Negrita y cursiva"
+
+# @ bonestheme
+#: search.php:7
+msgid "Search Results for"
+msgstr "Resultados de Búsqueda para"
+
+# @ bonestheme
+#: search.php:22
+msgid "Read more on"
+msgstr "Lea más sobre"
+
+# @ bonestheme
+#: sidebar-sidebar2.php:13 sidebar.php:13
+msgid "Please activate some Widgets"
+msgstr "Por favor, active algunos Widgets"
+
+# @ bonestheme
+#: single.php:36
+msgid "Edit post"
+msgstr "Editar publicación"
