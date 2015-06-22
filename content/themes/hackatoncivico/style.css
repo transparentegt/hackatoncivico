@@ -23,7 +23,7 @@ footer .bottom {
 }
 
 .main-background {
-	background: url(rsc/img/demonstration.jpg);
+	background: url(rsc/img/demonstration.jpg) center;
 	background-size: cover;
 	background-attachment: fixed;
 	width: 100%;
